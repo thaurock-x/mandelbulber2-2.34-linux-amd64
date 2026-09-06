@@ -160,4 +160,3 @@ Disclaimer
 This project is an unofficial community packaging project. Mandelbulber 2 remains the work of its original developers and contributors.
 
 No warranty is provided for this community-built package. Use it at your own discretion.
-This repository does not replace the original project's license or copyright notices.
