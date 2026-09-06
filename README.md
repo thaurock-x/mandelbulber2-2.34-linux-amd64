@@ -1,5 +1,8 @@
 Mandelbulber 2.34 — Debian/Ubuntu amd64 package
 
+This is an unofficial community package.
+Mandelbulber 2 is developed by the Mandelbulber Team.
+
 Community-built Debian package for Mandelbulber 2.34 on 64-bit Debian/Ubuntu-based systems.
 
 This repository is not the official Mandelbulber2 repository. It provides a repackaged .deb built from the Mandelbulber 2.34 Linux/portable distribution, with the program data included in the package and a desktop launcher and application icon.
