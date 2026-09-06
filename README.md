@@ -14,6 +14,8 @@ Important: This repository is not the official Mandelbulber2 repository and this
 
 This project provides a repackaged .deb built from the Mandelbulber 2.34 Linux/portable distribution, with the program data included in the package together with a desktop launcher and application icon.
 
+---
+
 ✨ What's included
 Mandelbulber 2.34
 Native amd64 / x86_64 Linux executable
@@ -27,6 +29,9 @@ Application icon
 Correct application-menu integration
 Complete application data included in the .deb
 No separate mandelbulber2-data package required
+
+---
+
 🖥️ System requirements
 Requirement	Value
 Architecture	amd64 / x86_64
@@ -35,6 +40,9 @@ Target systems	Debian / Ubuntu and compatible derivatives
 Mandelbulber version	2.34
 OpenCL	Supported through the system OpenCL runtime
 Package size	~58 MB
+
+---
+
 📦 Installation
 
 Download the latest .deb package from the Releases section.
@@ -52,6 +60,8 @@ You can launch it from the menu or with:
 
 mandelbulber2
 
+---
+
 🔐 Verify the download
 
 The SHA-256 checksum of the published package is:
@@ -68,6 +78,8 @@ The resulting checksum should match the value above.
 
 A copy of the checksum is also provided in SHA256SUMS.
 
+---
+
 🚀 Launch
 
 After installation:
@@ -76,6 +88,8 @@ mandelbulber2
 
 
 Alternatively, launch Mandelbulber v2 from the desktop application menu.
+
+---
 
 🧹 Uninstallation
 
@@ -88,6 +102,8 @@ To remove the package and its automatically installed dependencies that are no l
 
 sudo apt autoremove
 
+---
+
 🧩 OpenCL
 
 Mandelbulber can use OpenCL through the system OpenCL runtime.
@@ -95,6 +111,8 @@ Mandelbulber can use OpenCL through the system OpenCL runtime.
 The package includes the OpenCL-related application resources from the Mandelbulber 2.34 distribution, but the appropriate OpenCL driver/runtime for your GPU must be provided by the operating system.
 
 For NVIDIA, AMD or Intel GPUs, install the appropriate vendor-supported driver and OpenCL runtime for your Linux distribution.
+
+---
 
 📁 Package contents
 
@@ -117,12 +135,16 @@ The application icon is installed at:
 
 /usr/share/icons/hicolor/128x128/apps/mandelbulber2.png
 
+---
+
 📋 Package information
 Package:       mandelbulber2
 Version:       2.34-1
 Architecture:  amd64
 Format:        Debian .deb
 Size:          ~58 MB
+
+---
 
 ⚠️ Important
 
@@ -136,15 +158,22 @@ The original Mandelbulber project and its authors retain their respective copyri
 
 Please consult the original Mandelbulber project for source code, official releases, documentation and licensing information.
 
+---
+
 📜 Credits
 Mandelbulber Team — Mandelbulber 2
 Community packaging — thaurock-x
 Included example collections and other third-party resources remain subject to their respective licenses and attribution requirements.
+
+---
+
 🤝 Community
 
 This repository exists to make Mandelbulber 2.34 easier to install on compatible Debian/Ubuntu-based systems.
 
 Issues and suggestions regarding this community package are welcome through the GitHub issue tracker.
+
+---
 
 📥 Download
 
@@ -161,5 +190,7 @@ and optionally:
 
 SHA256SUMS
 
+Man
+delbulber 2.34 — Community Debian/Ubuntu amd64 package
 
-Mandelbulber 2.34 — Community Debian/Ubuntu amd64 package
+By THAUROCK
