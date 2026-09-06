@@ -1,5 +1,3 @@
-Mandelbulber 2.34 — Debian/Ubuntu amd64
-
 Mandelbulber 2 is a 3D fractal renderer and generator developed by the Mandelbulber Team.
 
 Important: This repository is not the official Mandelbulber2 repository and this package is not an official Mandelbulber release package.
